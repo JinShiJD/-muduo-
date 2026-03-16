@@ -1,0 +1,10 @@
+/home/gem/codeFiles/clusterChat/build/CMakeFiles/rebuild_cache.dir
+/home/gem/codeFiles/clusterChat/build/CMakeFiles/edit_cache.dir
+/home/gem/codeFiles/clusterChat/build/src/CMakeFiles/rebuild_cache.dir
+/home/gem/codeFiles/clusterChat/build/src/CMakeFiles/edit_cache.dir
+/home/gem/codeFiles/clusterChat/build/src/server/CMakeFiles/rebuild_cache.dir
+/home/gem/codeFiles/clusterChat/build/src/server/CMakeFiles/edit_cache.dir
+/home/gem/codeFiles/clusterChat/build/src/server/CMakeFiles/ChatServer.dir
+/home/gem/codeFiles/clusterChat/build/src/client/CMakeFiles/rebuild_cache.dir
+/home/gem/codeFiles/clusterChat/build/src/client/CMakeFiles/edit_cache.dir
+/home/gem/codeFiles/clusterChat/build/src/client/CMakeFiles/ChatClient.dir
